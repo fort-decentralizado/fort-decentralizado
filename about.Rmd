@@ -1,0 +1,5 @@
+---
+title: "Desarrollo"
+---
+
+El desarrollo de la página web estuvo a cargo de [Diego Benavides-Vargas](mailto:diegobv@pm.me).

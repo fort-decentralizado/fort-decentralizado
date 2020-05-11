@@ -1,0 +1,90 @@
+---
+title: "Aprovechamiento del capital social y humano"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(cache = TRUE)
+```
+
+
+## Mejora de productividad nacional mediante 
+
+Para lograr orientaciones y articulaciones nacionales, este proyecto de ley propone crear un mecanismo de
+articulación institucional, con amplia participación de la representación socio-productiva, mediante un Consejo de Desarrollo Socioeconómico Local, que, si bien
+posee un ámbito nacional, su principal pretensión es fomentar el desarrollo local,
+mediante la generación de nuevas fuentes de riqueza y empleo, así como una
+relación más cercana entre los productores locales y los consumidores.
+
+Para lograr lo anterior se fomentarán los modelos existentes de economía
+social solidaria, creando condiciones para articular a nivel territorial los esfuerzos de
+las diversas entidades públicas, privadas y sociales que tengan incidencia con los
+procesos productivos, de comercialización y consumo.
+
+```{r footnote, eval=FALSE, include=FALSE}
+
+<article>
+  <h1>Accessible footnotes with CSS</h1>
+
+  <p>Maintaining <a href="#footnotes" aria-describedby="footnote-label" id="footnotes-ref">footnotes</a> manually can be a pain. By using <a href="#css" aria-describedby="footnote-label" id="css-ref">CSS</a> <a href="#css-counters" aria-describedby="footnote-label" id="css-counters-ref">counters</a> to add the numbered references in the text and an ordered list to display the actual footnotes in the footer, it becomes extremely easy.</p>
+
+  <footer>
+    <h2 class="visually-hidden" id="footnote-label">Footnotes</h2>
+    <ol>
+      <li id="footnotes">Footnotes are notes placed at the bottom of a page. They cite references or comment on a designated part of the text above it. <a href="#footnotes-ref" aria-label="Back to content">↩</a></li>
+      
+      <li id="css">Cascading Style Sheets <a href="#css-ref" aria-label="Back to content">↩</a></li>
+
+      <li id="css-counters">CSS counters are, in essence, variables maintained by CSS whose values may be incremented by CSS rules to track how many times they're used. <a href="#css-counters-ref" aria-label="Back to content">↩</a></li>
+    </ol>
+  </footer>
+</article>
+```
+
+## Origen de los recursos 
+
+
+### Regimen especial de Zonas Francas
+
+Según [PROCOMER](https://procomer.com/es/regimenes-especiales-exportacion) (2020), "Los regímenes especiales de exportación son políticas creadas por Costa Rica para brindar beneficios a las empresas exportadoras e incentivar las exportaciones del país."
+
+### Beneficios exclusivos de Zonas Francas 
+
+Según PROCOMER (2020), algunos de los [beneficios](https://procomer.com/es/soy/zonasfrancas#2) que gozan las empresas establecidas en este régimen son los siguientes:
+
++ Exención en la importación de mercancías necesarias para la operación y administración de la empresa.
+
++ Exención en la importación de mercancías necesarias para la operación y administración de la empresa.
+
++ Exención de impuestos sobre las compras locales, de bienes o servicios.
+
++ Exención de impuestos a la exportación.
+
++ Exención de remesas.
+
++ Exención de todos los tributos a las utilidades.
+
+## Sobre el artículo 7. Redistribución proveniente de Zonas Francas
+
+El Fondo de Desarrollo Socioeconómico Local se financiará
+anualmente con un uno por ciento de las ventas brutas que realicen las empresas
+del Régimen de Zonas Francas de Exportación, el cual será recaudado por el
+Ministerio de Hacienda y transferido el mes siguiente. Los activos productivos que
+sean financiados mediante los recursos del Fondo de Desarrollo Económico serán
+propiedad de la organización destinataria.
+
+La cifra correspondiente al valor acumulado a diciembre del 2019, de las exportaciones FOB del Régimen Especial, corresponde a \$6.288,18 millones. De modo que una parte de cien sería \$62,8 millones, lo cual equivale a 35 mil millones de colones (con un dólar a 565 colones).
+
+## Sobre el artículo 7. Redistribución proveniente del Banco Popular y de Desarrollo Comunal
+
+El Fondo de Desarrollo Socioeconómico Local es creado con el propósito de
+cumplir con los propósitos de esta ley, entre los cuales se podrá financiar
+infraestructura productiva local. Las políticas y reglamentaciones del Fondo serán
+aprobadas por el Consejo creado en esta Ley y su administración estará a cargo de
+la Dirección Nacional de Desarrollo de la Comunidad (DINADECO). Este Fondo se
+financiará entre otras fuentes con el 5% de las utilidades anuales del Banco Popular
+y de Desarrollo Comunal, para lo cual se autoriza al Banco Popular a la
+redistribución de sus reservas o fondos especiales para proyectos o programas con
+fines determinados, establecidos en el Artículo 40 de la Ley N.° 4351, Ley Orgánica
+del Banco Popular y de Desarrollo Comunal.
+
+Los [Estados financieros consolidados al 31 de diciembre de 2019 del Banco Popular y de Desarrollo Comunal y subsidiarias](https://www.bancopopular.fi.cr/Nosotros/Informes/Informes%20Financieros/Informes%202019/Estados_Financieros_Auditados_Consolidados_al_31_de_diciembre_del_2019.pdf) se encuentran en revisión.

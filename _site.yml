@@ -1,0 +1,21 @@
+name: "proyecto"
+output_dir: "docs"
+include: ["import.R"]
+exclude: ["notas-website.txt", "*.csv"]
+navbar:
+  title: "Ley de Fomento Socioeconómico Local"
+  left:
+    - text: "Descripción del proyecto"
+      href: index.html
+      icon: fa-home
+    - text: "Financiamiento"
+      href: financiamiento.html
+      icon: fa-gear
+    - text: "Acerca de"
+      href: about.html
+      icon: fa-info
+output:
+  html_document:
+    theme: readable
+    highlight: textmate
+    css: footnotes.css
