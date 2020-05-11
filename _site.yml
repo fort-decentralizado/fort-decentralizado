@@ -1,5 +1,5 @@
 name: "proyecto"
-output_dir: "docs"
+output_dir: "."
 include: ["import.R"]
 exclude: ["notas-website.txt", "*.csv"]
 navbar:
